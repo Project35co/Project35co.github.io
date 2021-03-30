@@ -4,7 +4,7 @@ main {
 
 .landing {
     min-height: 100vh;
-    min-height:100vh;
+    min-width:150vh;
     background: url("./hero.jpg");
     background-size: cover;
     padding: 0rem 5rem;
