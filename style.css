@@ -3,6 +3,9 @@ main {
 }
 
 .landing {
+    position: absolute;
+    top: 7%;
+    left: 50%;
     background: url("./hero.jpg");
     background-size: cover;
     padding: 0rem 5rem;
